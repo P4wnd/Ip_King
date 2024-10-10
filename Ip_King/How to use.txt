@@ -1,0 +1,6 @@
+apt install python3
+git clone https://github.com/P4wnd/Ip_King.git
+cd Ip_King
+ls
+pip install -r requirements.txt
+python3 finder.py
